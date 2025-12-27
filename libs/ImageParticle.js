@@ -49,7 +49,11 @@ function getImageParticle(options) {
     let s = useShimmer ? size * Math.random() : size;
     c.scale(s, s);
     c.rotate(rotation * TO_RADIANS);
-    c.translate(img.width * -0.5, img.width * -1);
+    if (window.innerWidth >= 900) {
+      c.translate(img.width * -0.5, img.width * -1);
+    } else {
+      c.translate(img.width * -0.8, img.width * -0.5);
+    }
     c.globalAlpha = alpha;
     c.globalCompositeOperation = compositionOperation;
     if (hue !== -1) {
