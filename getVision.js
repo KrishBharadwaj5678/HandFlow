@@ -5,6 +5,7 @@ import {
 
 let video = document.getElementById("webcam");
 video.width = window.innerWidth;
+video.height = window.innerHeight;
 
 async function getVision() {
   // Mediapipe

@@ -4,6 +4,7 @@ body {
   background: #101010;
   overflow: hidden;
   color: white;
+  font-family: sans-serif;
 }
 
 .app {
@@ -15,7 +16,7 @@ body {
   top: 20px;
   left: 20px;
   z-index: 10;
-  padding: 18px 24px;
+  padding: 18px 22px;
   border-radius: 14px;
   background: rgba(18, 18, 22, 0.6);
   backdrop-filter: blur(14px);
@@ -59,6 +60,10 @@ body {
 /* Canvas and Video */
 .canvas {
   z-index: 1;
+}
+
+#webcam {
+  object-fit: cover;
 }
 
 #webcam,
