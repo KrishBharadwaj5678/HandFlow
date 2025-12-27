@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/favicon/favicon-96x96.png"
+      sizes="96x96"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/favicon/apple-touch-icon.png"
+    />
+    <meta name="apple-mobile-web-app-title" content="Hand Flow" />
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Interactive Particle Playground</title>
+    <meta name="title" content="HandFlow – Interactive Particle Playground" />
+    <meta
+      name="description"
+      content="HandFlow is an interactive particle playground where you control particles using your finger in real time. Built with modern web technologies for immersive experiences."
+    />
+    <meta name="author" content="Krish Bharadwaj" />
+    <meta
+      name="keywords"
+      content="HandFlow, particle playground, hand gesture interaction, creative coding, interactive web, HTML CSS JavaScript, computer vision, particles animation"
+    />
+  </head>
+  <body>
+    <div class="app">
+      <div class="heading">
+        <h1>How It Works</h1>
+
+        <ul class="rules">
+          <li>☝️ Use your index finger to interact</li>
+          <li>✨ Move particles in real time</li>
+        </ul>
+      </div>
+
+      <video id="webcam" autoplay playsinline></video>
+      <canvas class="canvas"></canvas>
+    </div>
+    <script src="./script.js" type="module"></script>
+  </body>
+</html>

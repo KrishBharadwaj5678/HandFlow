@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #101010;
+  overflow: hidden;
+  color: white;
+}
+
+.app {
+  position: relative;
+}
+
+.heading {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+  padding: 18px 24px;
+  border-radius: 14px;
+  background: rgba(18, 18, 22, 0.6);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+  max-width: 320px;
+}
+
+/* Title */
+.heading h1 {
+  margin: 0 0 7px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-align: center;
+}
+
+/* Rules */
+.rules {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.rules li {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.5;
+  padding: 4px 0;
+}
+
+/* Subtle hover effect */
+.heading:hover {
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.12);
+}
+
+/* Canvas and Video */
+.canvas {
+  z-index: 1;
+}
+
+#webcam,
+.canvas {
+  position: absolute;
+  transform: scaleX(-1);
+}
