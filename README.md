@@ -1,4 +1,4 @@
-# 🎇 HandFlow
+# 🖐️ HandFlow
 
 HandFlow is an immersive and creative web experience where particles move and react to **your finger gestures** in real time.
 Built with modern web technologies, it transforms simple interactions into **visual magic**.
