@@ -4,7 +4,7 @@
 
 HandFlow is an immersive web experience where particles move and react to your **finger gestures** in real time.
 
-![HandFlowDemo](https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif)
+<img width="800" height="500" alt="HandFlowDemo" src="https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif" />
 
 ## 🚀 Features
 
