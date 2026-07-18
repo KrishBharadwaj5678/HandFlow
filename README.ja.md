@@ -4,7 +4,7 @@
 
 **HandFlow** は、**指のジェスチャー**に応じてパーティクルがリアルタイムに動き、反応する没入感のある Web アプリケーションです。
 
-![HandFlowDemo](https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif)
+<img width="800" height="500" alt="HandFlowDemo" src="https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif" />
 
 ## 🚀 主な機能
 
