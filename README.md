@@ -13,7 +13,7 @@
   <a href="README.ru.md">Русский</a>
 </p>
 
-<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/HandFlow/blob/main/assets/readme/hand.gif" width="35"/> HandFlow</h1>
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/HandFlow/raw/main/favicon/favicon.svg" width="35"/> HandFlow</h1>
 
 <p align="center">
   HandFlow is an immersive web experience where particles move and react to your <b>finger gestures</b> in real time.
