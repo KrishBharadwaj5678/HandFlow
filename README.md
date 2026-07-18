@@ -1,10 +1,32 @@
-[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+<p align="center">
+  <!-- Profile Visitors -->
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <!-- Repository Visitors -->
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/HandFlow.svg?style=for-the-badge&label=Repo%20Views&color=blue" alt="Repository Views" />
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/HandFlow?style=for-the-badge&color=yellow" alt="Stars" />
+  <!-- GitHub Forks -->
+  <img src="https://img.shields.io/github/forks/KrishBharadwaj5678/HandFlow?style=for-the-badge&color=blue" alt="Forks" />
+  <!-- License -->
+  <img src="https://img.shields.io/github/license/KrishBharadwaj5678/HandFlow?style=for-the-badge&color=purple" alt="License" />
+</p>
 
-# 🖐️ HandFlow
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-HandFlow is an immersive web experience where particles move and react to your **finger gestures** in real time.
+<h1 align="center">🖐️ HandFlow</h1>
 
-<img width="800" height="500" alt="HandFlowDemo" src="https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif" />
+<p align="center">
+  HandFlow is an immersive web experience where particles move and react to your <b>finger gestures</b> in real time.
+</p>
+
+<p align="center">
+  <img width="800" height="500" alt="HandFlowDemo" src="https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif" />
+</p>
 
 ## 🚀 Features
 
@@ -23,10 +45,10 @@ HandFlow is an immersive web experience where particles move and react to your *
 
 | Tech                                                   | Purpose                             |
 | ------------------------------------------------------ | ----------------------------------- |
-| 🌐 **HTML**                                            | Structure of the web experience     |
-| 🎨 **CSS**                                             | Styling, layout & visual design     |
-| 🧠 **JavaScript**                                      | Core interaction and particle logic |
-| ✋ **MediaPipe**                                       | Real-time hand tracking             |
+| <img src="https://skillicons.dev/icons?i=html" width="25"/> **HTML** | Structure of the web experience     |
+| <img src="https://skillicons.dev/icons?i=css" width="25"/> **CSS**   | Styling, layout & visual design     |
+| <img src="https://skillicons.dev/icons?i=js" width="25"/> **JavaScript** | Core interaction and particle logic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25"/> **MediaPipe** | Real-time hand tracking |
 
 ---
 
