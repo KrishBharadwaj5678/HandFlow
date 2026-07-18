@@ -1,7 +1,8 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🖐️ HandFlow
 
-HandFlow is an immersive and creative web experience where particles move and react to **your finger gestures** in real time.
-Built with modern web technologies, it transforms simple interactions into **visual magic**.
+HandFlow is an immersive web experience where particles move and react to your **finger gestures** in real time.
 
 ![HandFlowDemo](https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif)
 
@@ -29,29 +30,20 @@ Built with modern web technologies, it transforms simple interactions into **vis
 
 ---
 
-## 📦 Getting Started
+## 🚀 Getting Started
 
-To run HandFlow locally, follow these steps:
+### 1️⃣ Clone the repository
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/KrishBharadwaj5678/HandFlow.git
-    cd HandFlow
-    ```
-
-2. Navigate to the project directory:
-
-    Simply open `index.html` in your browser and enjoy the experience!
+```bash
+git clone https://github.com/KrishBharadwaj5678/HandFlow.git
+```
    
----
+### 2️⃣ Navigate to project directory
 
-## Contributing 🤝
+```bash
+cd HandFlow
+```
+   
+### 3️⃣ Open `index.html` in your browser.
 
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+    
