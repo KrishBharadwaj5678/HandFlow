@@ -1,4 +1,4 @@
-[English](README.md) | [Português](README.pt.md) | **日本語** | [Русский](README.ru.md)
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
 
 # 🖐️ HandFlow
 
