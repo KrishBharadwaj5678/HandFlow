@@ -4,7 +4,7 @@
 
 **HandFlow** это интерактивное веб-приложение, в котором частицы движутся и реагируют на **движения ваших пальцев** в режиме реального времени.
 
-![HandFlowDemo](https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif)
+<img width="800" height="500" alt="HandFlowDemo" src="https://github.com/KrishBharadwaj5678/HandFlow/raw/main/HandFlowDemo.gif" />
 
 ## 🚀 Возможности
 
